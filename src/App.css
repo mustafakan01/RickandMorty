@@ -1,0 +1,7 @@
+.container{
+    justify-content: center;
+}
+.card{
+    text-align: center;
+    columns: 250px 3;
+}
