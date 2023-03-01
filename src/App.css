@@ -1,3 +1,7 @@
+
+body {
+    background-color: rgb(198, 245, 184);
+  }
 .container{
     justify-content: center;
 }
